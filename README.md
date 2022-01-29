@@ -1,5 +1,7 @@
 # demo-spring-react-example: dsre
 
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-WAKACHUU/branch/main/graph/badge.svg?token=4jEe8es2Vh)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-WAKACHUU)
+
 Storybook is here:
 
 - Production: <https://ucsb-cs156-w22.github.io/jpa03-wakachuu-docs/storybook>
